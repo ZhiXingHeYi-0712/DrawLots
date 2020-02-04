@@ -1,0 +1,59 @@
+#headTitle {
+    margin-top: 15px;
+    margin-bottom: 5px;
+    text-align: center;
+    font-family: "黑体";
+    font-size: 72px;
+}
+
+#nameListTitle {
+    float: left;
+}
+
+.nameList {
+    margin-left: 20px;
+    margin-bottom: 5px;
+    margin-right: 20px;
+    text-align: left;
+    font-family: "宋体";
+}
+
+.subtitle {
+    font-size: 36px;
+}
+
+.inputArea {
+    height: 400px;
+    line-height: normal;
+    font-size: large;
+}
+
+.main {
+    text-align: center;
+    margin-left: 20px;
+    margin-bottom: 5px;
+    margin-right: 20px;
+    font-family: "宋体";
+}
+
+#mainArea {
+    text-align: center;
+    padding-right: 180px;
+}
+
+#nameBox {
+    font-family: "黑体";
+    font-weight: bold;
+    font-size: 100px;
+    border: 2px;
+    height: 100px;
+}
+
+#nameButton {
+    font-size: 24px;
+}
+
+#saveButton {
+    font-size: 24px;
+    text-align: center;
+}

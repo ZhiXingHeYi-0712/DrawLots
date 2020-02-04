@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+
+<head>
+    <link href="main.css" rel="stylesheet" type="text/css">
+    <script src="drawlots.js"></script>
+    <script src="store.js"></script>
+    <title>抽签</title>
+</head>
+
+<body>
+    <div id="headTitle">抽签</div>
+    <div id="nameListTitle" class="nameList">
+        <p class="nameList subtitle">抽签列表</p>
+        <p class="nameList text">(每行输入一人)</p>
+        <label for="nameInputList"></label><textarea class="nameList inputArea" id="nameInputList"></textarea>
+        <button id="saveButton" class="nameList">保存/复位</button>
+    </div>
+
+    <div class="main" id="mainArea">
+        <p class="subtitle">请抽签</p>
+        <p id="nameBox"></p>
+        <button id="nameButton">抽签</button>
+    </div>
+
+</body>
